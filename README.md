@@ -1,5 +1,8 @@
-# 💫 About Me:
-I’m a React developer skilled in building scalable web applications and implementing reusable components.<br>I have a strong understanding of modern web development practices and proficient in using React to manage and update the state of a web application.
+# 👨‍💻 About Me:
+As a React developer, I have strong knowledge of JavaScript and its core principles. I am skilled in using React to build efficient and effective user interfaces for web applications.
+I have a solid understanding of React's component-based architecture, and am proficient in using React hooks and the Redux state management library.
+I am dedicated to staying up to date with the latest developments in the React ecosystem, and I'm always looking for opportunities to improve my skills and expand my knowledge. 
+In my work as a React developer, I strive to deliver high-quality, well-designed applications that provide a seamless and enjoyable user experience.
 
 
 ## 🌐 Socials:
