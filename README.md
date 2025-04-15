@@ -1,8 +1,5 @@
 # 👨‍💻 About Me:
-As a React developer, I have strong knowledge of JavaScript and its core principles. I am skilled in using React to build efficient and effective user interfaces for web applications.
-I have a solid understanding of React's component-based architecture, and am proficient in using React hooks and the Redux state management library.
-I am dedicated to staying up to date with the latest developments in the React ecosystem, and I'm always looking for opportunities to improve my skills and expand my knowledge. 
-In my work as a React developer, I strive to deliver high-quality, well-designed applications that provide a seamless and enjoyable user experience.
+As a full-stack developer, I love bringing ideas to life by building smooth and reliable solutions. Whether it’s designing an easy-to-use interface or setting up a solid back-end, I focus on making sure everything works together seamlessly. With a wide range of tools and technologies at my disposal, I’m dedicated to creating flexible, scalable applications that grow with your needs.
 
 
 ## 🌐 Socials:
